@@ -199,6 +199,9 @@ t.pencolor('brown')
 t.goto(-250, 275)
 t.write('v', font=("Arial", 25, "bold"), align="center")
 
+
+
+
 #tree
 t.pencolor('brown')
 t.penup()
